@@ -1,0 +1,12 @@
+PRIMARY_KEY,NAME,DESCRIPTION,UPDATED_TIMESTAMP
+"1","very","central","05/12/2020 01:58:02"
+"2","updated","needed","07/14/2020 08:31:34"
+"3","found","local","01/25/2020 09:02:06"
+"4","quick","unusual","05/31/2020 09:27:31"
+"5","widely","volume","04/05/2020 03:56:11"
+"6","beneath","open","09/13/2020 04:58:20"
+"7","pile","favorite","05/07/2020 01:14:34"
+"8","gray","horn","05/17/2020 05:18:58"
+"9","clay","using","02/27/2020 01:17:53"
+"10","location","slave","11/21/2020 04:20:26"
+"11","until","anywhere","11/21/2020 04:20:26"
